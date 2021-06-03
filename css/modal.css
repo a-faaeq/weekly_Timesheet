@@ -1,0 +1,10 @@
+@media (max-width: 575.98px) {
+    .container {
+        min-width: 100%;
+    }
+}
+.pr{
+    
+    padding-right: 1px;
+    
+}

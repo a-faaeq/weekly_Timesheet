@@ -1,0 +1,71 @@
+
+body{
+    
+ 
+background-image:url("../img/login.png");
+
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+    
+    
+    
+}
+
+
+
+
+.card-body1 {
+    /*background-image:url("../img/timecard.jpg");*/
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+ 
+    
+    
+}
+.card1:hover{
+    transform: translateY(-10px);
+      transition: transform 0.5s;
+}
+
+.card-body2 {
+    /*background-image:url("../img/timecard.jpg");*/
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+ 
+    
+    
+}
+.card2:hover{
+    transform: translateY(-10px);
+      transition: transform 0.5s;
+}
+.div1{
+    margin:200px;
+   position:relative;
+   
+}
+.div2{
+    right: 600px;
+    top:239px;
+ position:absolute;   
+}
+.div3{
+   
+   position:relative;
+   
+}
+.div4{
+    right: 600px;
+    top:450px;
+ position:absolute;   
+}
+
+
+
+
+
+
